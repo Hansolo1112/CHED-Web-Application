@@ -1,5 +1,5 @@
 # DESIGN OF A WEB-BASED REPORT EVALUATION SYSTEM FOR HIGHER EDUCATION PROGRAMS
-This application serves as a requirement for the Software Design course.
+This application serves as a requirement for the Software Design course. A Web Application for Commission on Higher Education
 
 ## General Objectives:
 The main objective of the project is to develop a web-based evaluation system for evaluating and storing reports for institutions accredited under CHED. It must meet the needs of the client in compliance with engineering and other relevant standards while taking into consideration the constraints including economic, sustainability, and security along with computation of trade-offs from selected constraints
